@@ -9,6 +9,7 @@ namespace Angular_8.Controllers
     [Route("api/[controller]")]
     public class SampleDataController : Controller
     {
+        // new comments for test branch
         private static string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
